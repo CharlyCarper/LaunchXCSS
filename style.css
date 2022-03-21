@@ -116,16 +116,41 @@
   min-height: 110px;
   background-image: url(/recursos/Imagen\ 2.png);
   background-repeat: no-repeat;
-  background-size:cover ;
+  background-size: cover;
   opacity: 0.8;
-  box-shadow: 2px 2px 5px #DEE9F9;
+  box-shadow: 2px 2px 5px #dee9f9;
 }
-#foot{
+#foot {
   background-image: url(/recursos/foot.png);
   min-height: 150px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   padding: 20px;
+}
+.tarjetero {
+  padding: auto;
+  background: red;
+}
+.tarjetero__divs{
+  background-color: yellowgreen;
+  display: flex;
+  height: auto;
+}
+.tarjeta {
+  display: block;
+  float: left;
+  width: 15%;
+  height: auto;
+  padding: 15px;
+  margin: 40px;
+  background-color: #fff;
+}
 
+.tarjeta:hover {
+  box-shadow: 2px 2px 5px #dee9f9;
+}
+.tittar,#icon4, #icon5, #icon6{
+  display: block;
+  float: left;
 }
