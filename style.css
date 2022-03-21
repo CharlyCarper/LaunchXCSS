@@ -1,0 +1,131 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+}
+.clearfix {
+  float: none;
+  clear: both;
+}
+
+.menu {
+  margin: 0px;
+  padding: 0px;
+  background-image: url(/recursos/header.png);
+  background-size: 100%;
+}
+.logo {
+  display: block;
+  float: left;
+  padding: 40px;
+  color: #2949c6;
+  text-align: left;
+  min-width: 15%;
+  min-height: 100%;
+}
+
+#submenu ul li {
+  display: block;
+  float: right;
+  padding: 40px;
+  font-size: 15px;
+}
+#submenu ul li a {
+  color: #7a889e;
+  font-weight: 550px;
+}
+.bot {
+  padding: 15px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+.bot:hover {
+  background-color: #2949c6;
+  color: #fff !important;
+}
+.caja1 {
+  display: block;
+  float: left;
+  min-width: 50%;
+  min-height: 800px;
+  max-width: 50%;
+  max-height: 55px;
+  text-align: center;
+}
+#titulo {
+  padding: 50px;
+  font-size: 70px;
+  color: #1f3e72;
+}
+#informacion-vaciuna {
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: left;
+  font-size: 25px;
+  color: #7e8a9f;
+}
+#enfermera {
+  background-image: url(/enfermera.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #5a91dc;
+}
+.time {
+  display: block;
+  float: left;
+  max-width: 250px;
+  margin: 0px;
+  padding-top: 25%;
+  padding-left: 15px;
+}
+#reloj {
+  padding: 5px;
+}
+.escudo {
+  display: block;
+  float: left;
+  max-width: 300 px;
+  margin: 0px auto;
+  padding-top: 60px;
+  text-align: center;
+}
+#esc,
+#est {
+  width: 10px;
+  padding: 4px;
+  padding-left: 50px;
+  padding-right: 10px;
+}
+.bloque21 {
+  display: block;
+  float: left;
+  min-width: 50%;
+  max-width: 50%;
+  min-height: 700px;
+}
+.bloque1 {
+  position: relative;
+}
+#ventanaf {
+  position: absolute;
+  left: 60px;
+  top: 750px;
+  z-index: 3;
+  min-width: 55%;
+  min-height: 110px;
+  background-image: url(/recursos/Imagen\ 2.png);
+  background-repeat: no-repeat;
+  background-size:cover ;
+  opacity: 0.8;
+  box-shadow: 2px 2px 5px #DEE9F9;
+}
+#foot{
+  background-image: url(/recursos/foot.png);
+  min-height: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 20px;
+
+}
