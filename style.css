@@ -87,7 +87,7 @@
   color: #7e8a9f;
 }
 #enfermera {
-  background-image: url(../assets/enfermera.png);
+  background-image: url('assets/enfermera.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #5a91dc;
@@ -135,7 +135,7 @@
   z-index: 3;
   min-width: 60%;
   min-height: 110px;
-  background-image: url(/assets/Imagen\ 2.png);
+  background-image: url(assets/Imagen2.png);
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 0.95;
