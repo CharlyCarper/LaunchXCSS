@@ -12,7 +12,7 @@
 .menu {
   margin: 0px;
   padding: 0px;
-  background-image: url(/assets/header.png);
+  background-image: url(assets/header.png);
   background-size: 100%;
 }
 .logo {
@@ -87,7 +87,7 @@
   color: #7e8a9f;
 }
 #enfermera {
-  background-image: url('assets/enfermera.png');
+  background-image: url(assets/enfermera.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #5a91dc;
@@ -142,7 +142,7 @@
   box-shadow: 2px 2px 5px #dee9f9;
 }
 #foot {
-  background-image: url(/assets/foot.png);
+  background-image: url(assets/foot.png);
   min-height: 150px;
   background-repeat: no-repeat;
   background-position: center;
@@ -211,7 +211,7 @@
   min-height: 750px;
 }
 #enfermera2 {
-  background-image: url(/assets/enfermera2.png);
+  background-image: url(assets/enfermera2.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -251,7 +251,7 @@
 }
 
 #enfermero {
-  background-image: url(/assets/enfermero.png);
+  background-image: url(assets/enfermero.png);
   background-size: cover;
   background-repeat: no-repeat;
   max-width: 50%;
