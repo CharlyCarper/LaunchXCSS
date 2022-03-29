@@ -87,7 +87,7 @@
   color: #7e8a9f;
 }
 #enfermera {
-  background-image: url(/assets/enfermera.png);
+  background-image: url(../assets/enfermera.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #5a91dc;
